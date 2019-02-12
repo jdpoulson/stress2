@@ -1,0 +1,26 @@
+#warnings {
+  display: none;
+}
+
+#symptoms {
+  display: none;
+}
+
+#methods {
+  display: none;
+}
+
+#high-stress {
+  display: none;
+  color: red;
+}
+
+#low-stress {
+  display: none;
+  color: yellow;
+}
+
+#no-stress {
+  display: none;
+  color: green;
+}
